@@ -1,0 +1,3 @@
+# rosetta.pytorch
+Working...
+i tested text recognizer with my private dataset, it worked
